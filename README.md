@@ -1,2 +1,2 @@
 # C-Problems-Section1
-C Language Problems- Language Basics|Operators|Branching|Looping
+C Language Problems- Language Basics|Branching|Looping|Operators.
